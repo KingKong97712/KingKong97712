@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react,javaScript,Python**
 
-- 📫 How to reach me **msabhithakur7777@gmail.com**
+- 📫 How to reach me **luckystar97712@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EnMAdI8t8Idmd_Shzj_BB6ma9Bcm6suG/view?usp=drive_link](https://drive.google.com/file/d/1EnMAdI8t8Idmd_Shzj_BB6ma9Bcm6suG/view?usp=drive_link)
 
@@ -36,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscode07&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mscode07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mscode07&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="mscode07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mscode07&theme=dark" alt="mscode07" /></p>
