@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **luckystar97712@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EnMAdI8t8Idmd_Shzj_BB6ma9Bcm6suG/view?usp=drive_link](https://drive.google.com/file/d/1EnMAdI8t8Idmd_Shzj_BB6ma9Bcm6suG/view?usp=drive_link)
-
 - ⚡ Fun fact **I'm a good Developer** 
  
 ## 🌐 Socials:
@@ -32,7 +30,3 @@
 ![Turborepo](https://img.shields.io/badge/Turborepo-%23E34F26.svg?style=for-the-badge&logo=Turborepo&logoColor=white) ![ZOD](https://img.shields.io/badge/zod-%230081CB.svg?style=for-the-badge&logo=zod&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-CA4245?style=for-the-badge&logo=redis&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Bun](https://img.shields.io/badge/bun-%232C8EBB.svg?style=for-the-badge&logo=bun&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Ubuntu](https://img.shields.io/badge/ubuntu-%23000000.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Recoil](https://img.shields.io/badge/recoil-CA4245?style=for-the-badge&logo=recoil&logoColor=white) 
  
 <img align="center" alt="Coding" width="100%" height="500" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mscode07&show_icons=true&theme=onedark&locale=en&layout=compact" alt="mscode07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mscode07&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="mscode07" /></p>
