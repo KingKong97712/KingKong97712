@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **AI,Blockchain Development**
 
 - 💬 Ask me about **react,javaScript,Python**
 
