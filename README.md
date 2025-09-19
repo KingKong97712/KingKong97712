@@ -1,6 +1,11 @@
 <h1 align="center"> Hii 👋, I'm Full Stack Developer</h1>
 
 <div align="center">
+    <p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=KingKong97712&theme=darkmode&data=followers,repositories,stars,commits' />
+</p>
+
+<div align="center">
 <a href="https://github.com/KingKong97712?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=KingKong97712&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
