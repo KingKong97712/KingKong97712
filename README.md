@@ -4,14 +4,20 @@
 <a href="https://github.com/KingKong97712?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=KingKong97712&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
-
-- 🌱 I’m currently learning **AI,Blockchain Development**
-
-- 💬 Ask me about **react,javaScript,Python**
-
-- 📫 How to reach me **luckystar97712@gmail.com**
-
-- ⚡ Fun fact **I'm a good Developer** 
+<p align="left">
+    <a href="mailto:jamesybarra0114@gmail.com" target="_blank"><img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://x.com/ramaarima42" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    </a>
+    <a href="https://discordapp.com/users/166068744626372609" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+     <a href="https://t.me/rusty_0114" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+</p>
  
 # 💻 Tech Stack: 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23777BB4.svg?style=for-the-badge&logo=git&logoColor=white)
