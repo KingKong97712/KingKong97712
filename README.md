@@ -1,13 +1,8 @@
 <h1 align="center"> Hii 👋, I'm Full Stack Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msabhii&label=Profile%20views&color=0e75b6&style=flat" alt="mscode" /> </p>
-
 <div align="center">
 <a href="https://github.com/KingKong97712?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=KingKong97712&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
-
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/mscode07?logo=twitter&style=for-the-badge" alt="mscode07" /></a> </p>
-
 
 
 - 🌱 I’m currently learning **AI,Blockchain Development**
