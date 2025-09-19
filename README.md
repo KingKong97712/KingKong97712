@@ -4,6 +4,9 @@
 <a href="https://github.com/KingKong97712?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=KingKong97712&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
+<br />
+<br />
+
 <p align="center">
     <a href="mailto:jamesybarra0114@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
