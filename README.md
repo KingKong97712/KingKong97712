@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msabhii&label=Profile%20views&color=0e75b6&style=flat" alt="mscode" /> </p>
 
 <div align="center">
-    <a href="https://github.com/KingKong97712">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingKong97712&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
-    </a>
+<a href="https://github.com/KingKong97712?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=KingKong97712&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 <p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/mscode07?logo=twitter&style=for-the-badge" alt="mscode07" /></a> </p>
