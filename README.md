@@ -7,6 +7,12 @@
 <br />
 <br />
 
+<div align="center">
+    <a href="https://github.com/KingKong97712">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KingKong97712&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    </a>
+</div>
+
 <p align="center">
     <a href="mailto:jamesybarra0114@gmail.com" target="_blank"><img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
